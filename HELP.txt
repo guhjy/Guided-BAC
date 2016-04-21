@@ -1,0 +1,9 @@
+Directions for running software:
+
+1) Create folder with all .R files in them
+2) Change directory in first line of ATEfunctions.R to the folder where your codes are
+3) Source in ATEfunctions.R
+4) Now you’re set to fit Guided BAC to your data
+5) Check out tutorial.pdf to see a simulated example that uses Guided BAC
+
+
