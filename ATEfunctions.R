@@ -1,5 +1,4 @@
-setwd(paste("/Users/josephantonelli/Documents/joey/Research/Air_pollution/",
-      "control_confounding/multiple_imputation/code/Github", sep=''))
+setwd("YourDirectory")
 
 library("MASS")
 library("mvtnorm")
